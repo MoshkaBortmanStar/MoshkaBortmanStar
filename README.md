@@ -20,6 +20,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+⌨️ About me: I'm a software engineer 🚀🚀🚀
+
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on  CodeWar [![image](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/dbcfbd41-4ec1-46ba-8c35-8c7896d62916)
+  (https://www.codewars.com/users/MoshkaBortman)] and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
 ### 
 
 
