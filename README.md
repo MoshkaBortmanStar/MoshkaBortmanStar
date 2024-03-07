@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=MoshkaBortmanStar&style=flat-square&color=pinc" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MoshkaBortmanStar&style=flat-square&color=blue" alt=""/>
 
 
 <h1 align="center">
