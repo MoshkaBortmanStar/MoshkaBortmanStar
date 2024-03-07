@@ -4,6 +4,7 @@
 </div>
 
 ### Hi there 👋
+![T7n](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede)
 ![Uploading T7n.gif…]()
 
 <!--
