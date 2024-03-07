@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede)" width="100"/>
+  <img src="https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede" width="100"/>
 </div>
 
 ### Hi there 👋
