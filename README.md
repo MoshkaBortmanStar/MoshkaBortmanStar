@@ -26,8 +26,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on  CodeWar [![image](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/dbcfbd41-4ec1-46ba-8c35-8c7896d62916)
-  (https://www.codewars.com/users/MoshkaBortman)] and read tech articles.
+- :zap: In my free time, I solve problems on [![image](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/dbcfbd41-4ec1-46ba-8c35-8c7896d62916)](https://www.codewars.com/users/MoshkaBortman) and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
