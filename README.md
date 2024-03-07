@@ -29,6 +29,6 @@
 - ⚡ In my free time, I solve problems on [![image](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/96a4866a-c19c-41fb-868d-d1d38becbee9)](https://www.codewars.com/users/MoshkaBortman) and read tech articles. 
 I also lead an active lifestyle
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moshka-bortman/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MoshkaBortman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moshka-bortman/)
 
 
