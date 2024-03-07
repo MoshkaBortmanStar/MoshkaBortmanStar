@@ -32,3 +32,9 @@ I also lead an active lifestyle
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MoshkaBortman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moshka-bortman/)
 
 
+### :hammer_and_wrench: Languages and Tools :
+
+### :fire: :fire: :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoshkaBortmanStar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
