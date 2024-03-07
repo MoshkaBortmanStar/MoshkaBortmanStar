@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede" width="500"/>
+  <img src="https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede" width="450"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/moshka-bortman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
