@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede" width="100"/>
+  <img src="https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede" width="1000"/>
 </div>
 
 ### Hi there 👋
-![T7n](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/49b1864d-d2e3-4a60-9d85-d6fa49f02ede)
-![Uploading T7n.gif…]()
+
 
 <!--
 **MoshkaBortmanStar/MoshkaBortmanStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
