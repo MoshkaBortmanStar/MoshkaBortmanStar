@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/T7n.gif" width="100"/>
+  <img src="https://i![T7n](https://github.com/MoshkaBortmanStar/MoshkaBortmanStar/assets/49586064/0f9817c3-95d3-481c-b463-ef51dbe1d50c)
+.gifer.com/T7n.gif" width="100"/>
 </div>
 
 ### Hi there 👋
